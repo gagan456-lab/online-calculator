@@ -1,0 +1,41 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  .m-w-20{
+    max-width: 30vw;
+  }
+  .button{
+    padding: 15px;
+    margin: 0 4px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+
+  }
+  .row{
+    margin: 8px 0;
+    text-align: center;
+  }
+  .flex{
+    display: flex;
+  }
+  .flex_col{
+    flex-direction:column ;
+  }
+  .items-center{
+    align-items: center;
+  }
+  .row{
+    margin: 8px 0;
+  }
+  .row input{
+    padding: 8px;
+    margin: 0 4px;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  
